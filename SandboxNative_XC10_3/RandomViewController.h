@@ -11,7 +11,7 @@
 NS_ASSUME_NONNULL_BEGIN
 
 @interface RandomViewController : UIViewController
-
++ (void) enableDebug;
 @end
 
 NS_ASSUME_NONNULL_END

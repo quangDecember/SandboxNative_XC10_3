@@ -32,4 +32,8 @@
 }
 */
 
++ (void)enableDebug {
+    [RewardConfiguration setIsDebug:true];
+}
+
 @end
